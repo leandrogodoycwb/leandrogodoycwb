@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrogodoycwb&label=Profile%20views&color=0e75b6&style=flat" alt="leandrogodoycwb" /> </p>
 
-- 🌱 I’m currently learning **PHP, CSS, HTML, JS, JAVA**
+- 🌱 I’m currently learning **PHP, CSS, HTML, JS, DART, FLUTTER**
 
 - 👨‍💻 All of my projects are available at [https://github.com/leandrogodoycwb](https://github.com/leandrogodoycwb)
 
